@@ -1,9 +1,15 @@
-# ARCore Cloud Anchors Sample
+# ARCore Cloud Anchors  App
+---
+### An Augmented reallity based app,which helps you host anchors on the cloud and retrieve others anchors as well
+---
+## Using Tech:
 
-This is a sample app demonstrating how ARCore anchors can be hosted and resolved
-using the ARCore Cloud Service.
+* Java
+* Xml
+* Arcore
+* Cloud Anchors
+---
 
-## Getting Started
 
- See [Get started with Cloud Anchors for Android](https://developers.google.com/ar/develop/java/cloud-anchors/cloud-anchors-quickstart-android)
- to learn how to set up your development environment and try out this sample app.
+[Back To The Top](#Textchat)
+---
