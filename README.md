@@ -1,6 +1,6 @@
 # ARCore Cloud Anchors  App
 ---
-### An Augmented reallity based app,which helps you host anchors on the cloud and retrieve others anchors as well
+### An Augmented reality based app,which helps you host anchors on the cloud and retrieve others anchors as well
 ---
 ## Using Tech:
 
